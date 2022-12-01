@@ -1,5 +1,3 @@
-
-
 fn find_elf_snacks(input_str: String, top_count: usize) -> (i32, i32) {
     let mut split_str = input_str.split("\n").peekable();
 

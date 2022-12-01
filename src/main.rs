@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 #[path = "./tests/2022-1.rs"]
 mod day_1;
 
